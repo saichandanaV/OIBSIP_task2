@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class numberGuessingGame{
+public class NumberGuessingGame{
     public static int scoreGenerator(int n) {
         int score = 0;
         switch (n) {
